@@ -1,8 +1,8 @@
 {
   "users": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "nombres": "Eduardo Jesús", "correo":"eduardo@gmail.com" },
+    { "id": 2, "nombres": "Edgar Romero", "correo":"demo@demo.com" },
+    { "id": 3, "nombres": "Ali Bailaa", "correo":"ali.ba@gmail.com" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
